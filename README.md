@@ -1,7 +1,7 @@
-# Git Lab Project
+# Git Lab Project - EDDITED BRANCH2
 
 This project is created for practicing GIT version control and automation.
-## Technologies Used
+# Git Lab Project - EDDITED BRANCH2
 
 - Git
 - GitHub
